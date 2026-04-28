@@ -17,7 +17,7 @@ Bachelor’s degree in Computer Science. I also share insights about software ar
 
 [![Alberto Dumontt - CV](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1Cm8YaSKRHYX-6OfM9SfDkXyc-TMcws-PGP-G0NHAphQ/edit?tab=t.0)
 [![Alberto Dumontt - LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-dumontt/)
-[![Alberto Dumontt - Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://albertodumontt.vercel.app/)
+[![Alberto Dumontt - Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://albertodumontt.com/)
 [![b7rtto.404 - Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/b7rtto.404/)
 
 
