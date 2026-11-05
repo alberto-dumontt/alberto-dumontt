@@ -21,7 +21,7 @@ Bachelor’s degree in Computer Science. I also share insights about software ar
 [![b7rtto.404 - Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/b7rtto.404/)
 
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=alberto-dumontt&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alberto-dumontt&theme=tokyonight)
 
 ## Technologies I use in my day
 
@@ -43,4 +43,4 @@ Bachelor’s degree in Computer Science. I also share insights about software ar
 </div>
 <br>
 
-📫 <b>Let's connect:</b>  <a href="mailto:albertodumonttdev@outlook.com">albertodumonttdev@outlook.com</a>
+📫 <b>Let's connect:</b>  <a href="mailto:albertodumonttsf@outlook.com">albertodumonttsf@outlook.com</a>
